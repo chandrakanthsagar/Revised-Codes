@@ -97,6 +97,7 @@ void inorder() {
     inorder_Recursive(root); 
 } 
 void preorder_recursive(){
+    System.out.println("hello");
     preoder(root);
 }
 
