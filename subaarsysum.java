@@ -1,4 +1,4 @@
-dimport java.util.*;
+import java.util.*;
 public class subaarsysum {
     public static void main(String args[]){
         int a[]={5,0,2,3,-1,1};
@@ -24,7 +24,7 @@ public class subaarsysum {
             //calculate the sum that have to be removed
           //so that we can get the desired sum
             
-            int removeSum=currSum%sum;
+            int removeSum=currSum-sum;
  
            //get count of occurrences of that sum that
           //have to removed and add it to res value
