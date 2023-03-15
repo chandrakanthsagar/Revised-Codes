@@ -1,0 +1,210 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BST_class",
+            "request": "launch",
+            "mainClass": "BST_class",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Octal",
+            "request": "launch",
+            "mainClass": "Octal",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch SLL",
+            "request": "launch",
+            "mainClass": "SLL",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stringpermuation",
+            "request": "launch",
+            "mainClass": "Stringpermuation",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Trasform",
+            "request": "launch",
+            "mainClass": "Trasform",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarytree",
+            "request": "launch",
+            "mainClass": "binarytree",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch booblesort",
+            "request": "launch",
+            "mainClass": "booblesort",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch doublelinkedlist",
+            "request": "launch",
+            "mainClass": "doublelinkedlist",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionoptimal",
+            "request": "launch",
+            "mainClass": "insertionoptimal",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch msort",
+            "request": "launch",
+            "mainClass": "msort",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch multiply",
+            "request": "launch",
+            "mainClass": "multiply",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch multply",
+            "request": "launch",
+            "mainClass": "multply",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch nextperoptimal",
+            "request": "launch",
+            "mainClass": "nextperoptimal",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch oposite",
+            "request": "launch",
+            "mainClass": "oposite",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascaloptimal",
+            "request": "launch",
+            "mainClass": "pascaloptimal",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern123",
+            "request": "launch",
+            "mainClass": "pattern123",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutation",
+            "request": "launch",
+            "mainClass": "permutation",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch quicksort",
+            "request": "launch",
+            "mainClass": "quicksort",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch recurrevese",
+            "request": "launch",
+            "mainClass": "recurrevese",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch setzeros",
+            "request": "launch",
+            "mainClass": "setzeros",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch singlelinkedlist",
+            "request": "launch",
+            "mainClass": "singlelinkedlist",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch sor120",
+            "request": "launch",
+            "mainClass": "sor120",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringwords",
+            "request": "launch",
+            "mainClass": "stringwords",
+            "projectName": "driversheet_9fddcbbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch subaarsysum",
+            "request": "launch",
+            "mainClass": "subaarsysum",
+            "projectName": "driversheet_9fddcbbd"
+        }
+    ]
+}

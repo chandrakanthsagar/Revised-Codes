@@ -35,7 +35,7 @@ public static void  merge(int ar[],int l,int mid,int h){
             temp[k++]=ar[p2++];
         }
     for(int i=0;i<k;i++){
-            ar[i+l]=temp[i];
+            ar[i+l]=temp[i];//starting from low;
         }
    
    return ;

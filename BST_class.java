@@ -110,6 +110,9 @@ void inorder_Recursive(Node root) {
         inorder_Recursive(root.right); 
     
 } 
+void postoder(Node root){
+    
+}
 void preoder(Node root){
     if(root==null){
         return;
