@@ -3,7 +3,7 @@ public class selectionsort{
   public static void selectionsort(int arr[]){
       int n=arr.length;
       for(int i=0;i<n-1;i++){
-          int max=arr[i];
+          int max=arr[i];// to compare the element 
           int index=i;
           for(int j=i+1;j<n;j++){
               if(arr[j]>max){
