@@ -1,3 +1,6 @@
+//We know when to use Binary search i.e. when we do have a starting index and ending index we can do that 
+// In insertion we know it is based on before key value sorted and remaining side unsorted 
+// 
 import java.util.*;
 public class insertionoptimal{
  public static void insertionsort(int a[]){
@@ -13,7 +16,7 @@ public class insertionoptimal{
          a[j+1]=key;
      }
  }
- public static int binarysearch(int a[],int key,int low,int high){
+ public static int binarysearch(int a[], int key, int low, int high){
      while(low<=high){
          int mid=(low+high)/2;
          if(key==a[mid])
