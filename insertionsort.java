@@ -1,7 +1,9 @@
+// Insertion sort generally application pack game
 import java.util.*;
 public class insertionsort{
  public static void insertionsort(int a[]){
-     int n=a.length;
+     int n=a.length;// assume that first element already sorted you key index start from 1 
+  //(you need to check till first element where particular indx is greater than key
      for(int i=1;i<n;i++){
          int key=a[i];
          int j=i-1;
